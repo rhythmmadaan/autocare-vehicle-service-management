@@ -119,7 +119,7 @@ const MyAppointments = () => {
             </div>
             <div>
               <p className="text-xs text-gray-500 uppercase">Time</p>
-              <p>{activeAppointment.time || "—"}</p>
+              <p>{activeAppointment.timeSlot || "—"}</p>
             </div>
           </div>
 
