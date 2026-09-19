@@ -39,9 +39,7 @@ const Footer = () => {
           <div>
             <h3 className="text-4xl font-semibold mb-5 text-black hover:text-red-500 transition-colors ">Contact</h3>
             <div className="space-y-3 text-gray-900 font-semibold text-lg">
-              <p>Paschim Vihar , New Delhi</p>
-              <p>+91 98765 43210</p>
-              <p className="text-red-500 font-medium">support@AutoCare.in</p>
+            <p className="text-red-500 font-medium">support@AutoCare.in</p>
             </div>
           </div>
         </div>
