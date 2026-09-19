@@ -1,6 +1,6 @@
-# 🚗 Mechano – Vehicle Service Booking Platform
+# 🚗 AutoCare – Vehicle Service Booking Platform
 
-Mechano is a **vehicle service booking platform** built with **React, Firebase, and Firestore**.
+AutoCare is a **vehicle service booking platform** built with **React, Firebase, and Firestore**.
 It connects **vehicle owners and service providers** through a modern web application that allows users to book services, track appointments, and manage vehicle maintenance efficiently.
 
 The platform also includes a powerful **Admin Dashboard** for managing appointments, mechanics, users, and service products.
@@ -9,7 +9,7 @@ The platform also includes a powerful **Admin Dashboard** for managing appointme
 
 # 🌐 Overview
 
-Mechano simplifies the vehicle servicing workflow by providing:
+AutoCare simplifies the vehicle servicing workflow by providing:
 
 * Online booking for vehicle service appointments
 * Real-time service status tracking
@@ -78,7 +78,7 @@ Email notifications using **EmailJS** when:
 # 📁 Project Structure
 
 ```text
-mechano
+AutoCare
 │
 ├── .github
 │   └── workflows
@@ -137,74 +137,8 @@ mechano
 ├── package.json
 ├── vite.config.js
 └── .gitignore
-```
 
----
 
-# 🚀 Installation
-
-Clone the repository
-
-```bash
-git clone https://github.com/62jhaanuj-dotcom/mechano.git
-```
-
-Navigate to project folder
-
-```bash
-cd mechano
-```
-
-Install dependencies
-
-```bash
-npm install
-```
-
-Start development server
-
-```bash
-npm run dev
-```
-
----
-
-# 🔐 Environment Setup
-
-Create a `.env` file in the root directory and add your Firebase configuration.
-
-Example:
-
-```
-VITE_FIREBASE_API_KEY=
-VITE_FIREBASE_AUTH_DOMAIN=
-VITE_FIREBASE_PROJECT_ID=
-VITE_FIREBASE_STORAGE_BUCKET=
-VITE_FIREBASE_MESSAGING_SENDER_ID=
-VITE_FIREBASE_APP_ID=
-```
-
----
-
-# 📦 Build Project
-
-```bash
-npm run build
-```
-
----
-
-# ☁ Deployment
-
-You can deploy the project using:
-
-### Firebase Hosting
-
-```bash
-firebase deploy
-```
-
----
 
 
 
