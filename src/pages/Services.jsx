@@ -163,7 +163,7 @@ const Services = () => {
                       <div className="text-right">
                         <p className="text-[10px] text-gray-950 font-bold uppercase tracking-widest">Consult Fee</p>
                         {/* Fee: Red */}
-                        <p className="text-2xl font-black text-red-600">${item.fees}</p>
+                        <p className="text-2xl font-black text-red-600">₹{item.fees}</p>
                       </div>
                     </div>
                   </div>
