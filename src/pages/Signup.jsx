@@ -83,11 +83,7 @@ const Signup = () => {
           <div className="relative z-10 flex justify-center">
             {/* Modern Illustration with Red Accent (Dot) */}
             <div className="relative">
-              <img
-                src="https://illustrations.popsy.co/white/creative-work.svg"
-                alt="Art"
-                className="w-64 h-64 object-contain"
-              />
+              
               <div className="absolute top-10 right-10 w-4 h-4 bg-red-600 rounded-full animate-pulse shadow-[0_0_15px_#dc2626]"></div>
             </div>
           </div>
