@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 
 const ProfessionalHeader = ({
-  brandName = "MechanoPro",
+  brandName = "AutoCarePro",
   tagline = "Engineering Excellence",
 }) => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);

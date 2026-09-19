@@ -1,7 +1,7 @@
 import header_img from "./header_img.webp";
 import header_imgg from "./header_imgg.webp";
 import header_imggg from "./header_imggg.webp";
-import logo from "./logo.svg";
+import logo from "./logo.png";
 
 
 import Banner_img from "./Banner_img.png";

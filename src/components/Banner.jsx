@@ -16,7 +16,7 @@ const Banner = () => {
         </h2>
 
         <p className="text-black-300 mt-3 text-lg font-semibold">
-          Join Mechano today and connect with skilled mechanics for reliable and
+          Join AutoCare today and connect with skilled mechanics for reliable and
           fast vehicle service.
         </p>
 

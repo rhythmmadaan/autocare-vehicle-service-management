@@ -26,7 +26,7 @@ const DashboardNav = ({ loading, onRefresh }) => (
 
         <div>
           <h1 className="font-bold text-lg">
-            MECHANO <span className="text-red-500">OPS</span>
+            AutoCare <span className="text-red-500">OPS</span>
           </h1>
           <p className="text-xs text-gray-400">Fleet Monitoring</p>
         </div>

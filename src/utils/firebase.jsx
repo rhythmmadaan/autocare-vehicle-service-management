@@ -6,12 +6,12 @@ import { getAuth } from "firebase/auth";
 
 const firebaseConfig = {
   apiKey: import.meta.env.VITE_FIREBASE_API_KEY,
-  authDomain: "mechano-ed20f.firebaseapp.com",
-  projectId: "mechano-ed20f",
-  storageBucket: "mechano-ed20f.firebasestorage.app",
-  messagingSenderId: "1099191215122",
-  appId: "1:1099191215122:web:bee3951cacf93b1cbd24cb",
-  measurementId: "G-V5ZB9CL7SL"
+  authDomain: "autocare-1defe.firebaseapp.com",
+  projectId: "autocare-1defe",
+  storageBucket: "autocare-1defe.firebasestorage.app",
+  messagingSenderId: "434025427745",
+  appId: "1:434025427745:web:738b66c04816ff82400460",
+  measurementId: "G-1SCH4V3KMQ"
 };
 
 // Initialize Firebase

@@ -114,7 +114,7 @@ const Contact = () => {
                   Email Support
                 </p>
                 <p className="text-lg font-bold text-white">
-                  support@mechano.com
+                  support@AutoCare.com
                 </p>
               </div>
 

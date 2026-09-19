@@ -82,7 +82,7 @@ const AdminAppointments = () => {
       user_name: user.name || "Customer",
       car_model: item.vehicleModel,
       car_number: item.vehicleNumber,
-      mechanic_name: item.mechanicName || "Mechano Expert",
+      mechanic_name: item.mechanicName || "AutoCare Expert",
       issue: item.issue,
       payment_amount: item.price || "To be discussed"
     };
@@ -332,7 +332,7 @@ const AdminAppointments = () => {
            </p>
         </div>
         <p className="text-[10px] font-black text-white/20 uppercase tracking-[0.5em] italic">
-          Mechano Infrastructure v5.0.1
+          AutoCare Infrastructure v5.0.1
         </p>
       </footer>
 

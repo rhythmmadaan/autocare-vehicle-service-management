@@ -28,7 +28,7 @@ const Navbar = () => {
         
         {/* LOGO */}
         <div onClick={() => navigate("/")} className="cursor-pointer hover:opacity-80 transition-opacity">
-          <img className="w-32 md:w-36" src={assets.logo} alt="logo" />
+          <img className="w-40 md:w-55" src={assets.logo} alt="logo" />
         </div>
 
         {/* DESKTOP MENU */}

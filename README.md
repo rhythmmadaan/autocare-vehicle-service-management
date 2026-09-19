@@ -206,13 +206,6 @@ firebase deploy
 
 ---
 
-# 👨‍💻 Author
 
-**Anuj Jha**
-
-GitHub
-https://github.com/62jhaanuj-dotcom
-
----
 
 

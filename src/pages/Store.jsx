@@ -34,7 +34,7 @@ const Store = () => {
           </div>
 
           <h1 className="text-5xl md:text-7xl font-black text-black uppercase tracking-tighter leading-none">
-            Mechano <span className="text-red-600">Store</span>
+            AutoCare <span className="text-red-600">Store</span>
           </h1>
 
           <p className="text-slate-500 text-xs md:text-sm uppercase tracking-[0.4em] font-medium">

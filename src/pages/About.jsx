@@ -9,7 +9,7 @@ const About = () => {
       {/* 1. Page Header with Red Accent */}
       <div className="mb-16 text-center md:text-left">
         <h1 className="text-5xl font-black text-slate-900 tracking-tighter uppercase mb-4 border-b-[6px] border-red-600 pb-3 inline-block">
-          About Mechano
+          About AutoCare
         </h1>
         <p className="text-gray-700 font-bold uppercase tracking-[0.2em] mt-2">
           Redefining Automotive Care
@@ -34,7 +34,7 @@ const About = () => {
             <span className="text-red-600">Zero Compromise on Quality.</span>
           </h2>
           <p className="text-slate-700 leading-relaxed text-lg">
-            At Mechano, we bridge the gap between vehicle owners and top-tier
+            At AutoCare, we bridge the gap between vehicle owners and top-tier
             automotive experts. We believe that finding a trustworthy mechanic
             shouldn't be a hassle. Our platform guarantees transparent pricing,
             verified professionals, and seamless booking for all your automotive
@@ -118,7 +118,7 @@ const About = () => {
           Ready to get your vehicle fixed?
         </h2>
         <p className="text-gray-400 mb-8 max-w-xl mx-auto relative z-10">
-          Join thousands of satisfied car owners who trust Mechano for their
+          Join thousands of satisfied car owners who trust AutoCare for their
           automotive needs.
         </p>
         <button

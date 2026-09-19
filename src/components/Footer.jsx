@@ -16,7 +16,7 @@ const Footer = () => {
               className="w-75 mb-15  " 
             />
             <p className="text-gray-900 text-xl leading-relaxed font-semibold">
-              Mechano helps you connect with <span className="text-red-500 font-bold">trusted mechanics</span> for fast, reliable and affordable vehicle service near you.
+              AutoCare helps you connect with <span className="text-red-500 font-bold">trusted mechanics</span> for fast, reliable and affordable vehicle service near you.
             </p>
           </div>
 
@@ -39,16 +39,16 @@ const Footer = () => {
           <div>
             <h3 className="text-4xl font-semibold mb-5 text-black hover:text-red-500 transition-colors ">Contact</h3>
             <div className="space-y-3 text-gray-900 font-semibold text-lg">
-              <p>Bhopal, Madhya Pradesh</p>
+              <p>Paschim Vihar , New Delhi</p>
               <p>+91 98765 43210</p>
-              <p className="text-red-500 font-medium">support@mechano.in</p>
+              <p className="text-red-500 font-medium">support@AutoCare.in</p>
             </div>
           </div>
         </div>
 
         {/* COPYRIGHT */}
         <div className="text-center text-gray-900 font-semibold text-xl mt-12 border-t border-gray-800 pt-6">
-          &copy; 2026 <span className="text-red-600">Mechano</span>. All rights reserved.
+          &copy; 2026 <span className="text-red-600">AutoCare</span>. All rights reserved.
         </div>
       </div>
     </footer>

@@ -82,7 +82,7 @@ const Login = () => {
             </h1>
 
             <p className="text-gray-400 mt-4 text-sm ml-auto max-w-[250px]">
-              Login to Mechano to continue managing your car services.
+              Login to AutoCare to continue managing your car services.
             </p>
           </div>
 
@@ -203,7 +203,7 @@ const Login = () => {
                   <Loader2 className="animate-spin" />
                 ) : (
                   <>
-                    Login to Mechano <ArrowRight size={20} />
+                    Login to AutoCare <ArrowRight size={20} />
                   </>
                 )}
 
@@ -229,7 +229,7 @@ const Login = () => {
           </form>
 
           <p className="mt-10 text-[10px] text-gray-400 uppercase tracking-tighter">
-            Secure access powered by <span className="text-black font-bold">Mechano Auth</span>
+            Secure access powered by <span className="text-black font-bold">AutoCare Auth</span>
           </p>
 
         </div>
