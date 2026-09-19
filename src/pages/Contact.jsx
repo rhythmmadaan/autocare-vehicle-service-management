@@ -88,26 +88,7 @@ const Contact = () => {
 
             <div className="space-y-8">
 
-              <div>
-                <p className="text-xs text-gray-500 font-bold uppercase mb-2">
-                  Our Garage
-                </p>
-                <p className="text-lg font-bold text-white">
-                  Parshav Dham Colony 
-                </p>
-                <p className="text-sm text-gray-400">
-                  Geeta Nagar Bhopal
-                </p>
-              </div>
-
-              <div>
-                <p className="text-xs text-gray-500 font-bold uppercase mb-2">
-                  Call Us
-                </p>
-                <p className="text-xl font-bold text-red-600">
-                  +91 9876543210
-                </p>
-              </div>
+              
 
               <div>
                 <p className="text-xs text-gray-500 font-bold uppercase mb-2">
